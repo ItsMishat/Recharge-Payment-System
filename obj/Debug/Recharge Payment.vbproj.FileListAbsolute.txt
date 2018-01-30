@@ -1,0 +1,10 @@
+G:\FOlded\LESSONS\Object Oriented Software Development\Final Project\Recharge Payment\Recharge Payment\bin\Recharge Payment.dll
+G:\FOlded\LESSONS\Object Oriented Software Development\Final Project\Recharge Payment\Recharge Payment\bin\Recharge Payment.pdb
+G:\FOlded\LESSONS\Object Oriented Software Development\Final Project\Recharge Payment\Recharge Payment\bin\Recharge Payment.xml
+G:\FOlded\LESSONS\Object Oriented Software Development\Final Project\Recharge Payment\Recharge Payment\obj\Debug\ResolveAssemblyReference.cache
+G:\FOlded\LESSONS\Object Oriented Software Development\Final Project\Recharge Payment\Recharge Payment\obj\Debug\Recharge_Payment.Resources.resources
+G:\FOlded\LESSONS\Object Oriented Software Development\Final Project\Recharge Payment\Recharge Payment\obj\Debug\GenerateResource.read.1.tlog
+G:\FOlded\LESSONS\Object Oriented Software Development\Final Project\Recharge Payment\Recharge Payment\obj\Debug\GenerateResource.write.1.tlog
+G:\FOlded\LESSONS\Object Oriented Software Development\Final Project\Recharge Payment\Recharge Payment\obj\Debug\Recharge Payment.dll
+G:\FOlded\LESSONS\Object Oriented Software Development\Final Project\Recharge Payment\Recharge Payment\obj\Debug\Recharge Payment.xml
+G:\FOlded\LESSONS\Object Oriented Software Development\Final Project\Recharge Payment\Recharge Payment\obj\Debug\Recharge Payment.pdb
